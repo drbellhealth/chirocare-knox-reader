@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chirocare-v7.example/sitemap.xml
